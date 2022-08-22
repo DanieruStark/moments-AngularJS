@@ -37,4 +37,10 @@ para saber mais sobre clique **[Aqui](https://www.youtube.com/watch?v=xTCBaGeYTc
 
 ## Objetivo final do projeto
 
-**O objetivo do projeto é ensinar os conceitos e funcionalidades do AngularJS**.
+Excelente projeto para que o iniciante em AngularJS consiga ter uma ideia do que é possível fazer com o framework e sua facilidade para criação de rotas, services e componentes.
+
+## Considerações finais
+
+Esse foi o primeiro passo com o framework e meus estudos não param por aqui, fique de olho no meu profile e acompanhe minha evolução!
+
+<i>"O sucesso é a soma de pequenos esforços repetidos dia após dia".</i>
