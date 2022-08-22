@@ -1,27 +1,40 @@
-# Moments
+# Moments AngularJS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Moments AngularJS é um CRUD desenvolvido em AngularJS nos meus primeiros passos no aprendizado do framework.
 
-## Development server
+O projeto é mentorado por **[Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)**.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Finalidade do Projeto
 
-## Code scaffolding
+Moments tem como finalidade salvar fotos, titulos, e descrições de suas lembranças, bem como permitir que outros usuários comentem em suas lembranças.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![](/moments-images/home.png)
 
-## Build
+## Funcionalidades
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### `Página compartilhar`
 
-## Running unit tests
+O cerne do Projeto é o compartilhamento de momentos marcantes da sua vida, através de post nós alimentamos um Rest Api com titulo, descrição e uma imagem.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![](/moments-images/compartilhar.png)
 
-## Running end-to-end tests
+### `Página moment`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Cada momento tem sua própria página e para o dono da página é possível Editar e até mesmo excluir uma de suas lembranças.
 
-## Further help
+![](/moments-images/moment.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Ainda na página moment você também pode ver comentários feitos por outros usuários.
+
+![](/moments-images/comentarios.png)
+
+## Sobre o back-end do projeto
+
+Todo o back-end vem de outro projeto desenvolvido em AdonisJS e é disponibilizado e explicado através do canal do Matheus Battisti.
+para saber mais sobre clique **[Aqui](https://www.youtube.com/watch?v=xTCBaGeYTck&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw&index=22)**.
+
+![](/moments-images/adonis.png)
+
+## Objetivo final do projeto
+
+**O objetivo do projeto é ensinar os conceitos e funcionalidades do AngularJS**.
